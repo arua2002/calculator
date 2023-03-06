@@ -1,0 +1,19 @@
+c:\users\ruslan\documents\visual studio 2012\Projects\калькулятор\калькулятор\bin\Debug\калькулятор.exe.config
+c:\users\ruslan\documents\visual studio 2012\Projects\калькулятор\калькулятор\obj\Debug\калькулятор.csprojResolveAssemblyReference.cache
+c:\users\ruslan\documents\visual studio 2012\Projects\калькулятор\калькулятор\obj\Debug\калькулятор.Form1.resources
+c:\users\ruslan\documents\visual studio 2012\Projects\калькулятор\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+c:\users\ruslan\documents\visual studio 2012\Projects\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.Cache
+c:\users\ruslan\documents\visual studio 2012\Projects\калькулятор\калькулятор\bin\Debug\калькулятор.exe
+c:\users\ruslan\documents\visual studio 2012\Projects\калькулятор\калькулятор\bin\Debug\калькулятор.pdb
+c:\users\ruslan\documents\visual studio 2012\Projects\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+c:\users\ruslan\documents\visual studio 2012\Projects\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
+I:\калькулятор\калькулятор\bin\Debug\калькулятор.exe.config
+I:\калькулятор\калькулятор\bin\Debug\калькулятор.exe
+I:\калькулятор\калькулятор\bin\Debug\калькулятор.pdb
+I:\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.AssemblyReference.cache
+I:\калькулятор\калькулятор\obj\Debug\калькулятор.Form1.resources
+I:\калькулятор\калькулятор\obj\Debug\калькулятор.Properties.Resources.resources
+I:\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.GenerateResource.cache
+I:\калькулятор\калькулятор\obj\Debug\калькулятор.csproj.CoreCompileInputs.cache
+I:\калькулятор\калькулятор\obj\Debug\калькулятор.exe
+I:\калькулятор\калькулятор\obj\Debug\калькулятор.pdb
